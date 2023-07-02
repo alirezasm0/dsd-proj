@@ -1,0 +1,18 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+E:/dsd/cnn_open-master/cnn_open-master/model/bhvsram/bhv_1w1r_sram.sv,1546011502,systemVerilog,,E:/dsd/cnn_open-master/cnn_open-master/src/cnn.sv,,bhv_1w1r_sram,,,,,,,,
+E:/dsd/cnn_open-master/cnn_open-master/model/xilinx/xilinx_1w1r_sram.sv,1546011502,systemVerilog,,E:/dsd/cnn_open-master/cnn_open-master/model/xilinx/xilinx_srams.sv,,xilinx_1w1r_sram,,,,,,,,
+E:/dsd/cnn_open-master/cnn_open-master/model/xilinx/xilinx_srams.sv,1546011502,systemVerilog,,E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv,,rfdp1024x16;rfdp1024x8;rfdp1024x96;rfdp128x16;rfdp128x256;rfdp2048x8;rfdp256x96;rfdp32x256,,,,,,,,
+E:/dsd/cnn_open-master/cnn_open-master/src/capture.sv,1688047912,systemVerilog,,E:/dsd/cnn_open-master/cnn_open-master/src/cnn.sv,E:/dsd/cnn_open-master/cnn_open-master/src/global.sv,capture_lenet,,,,,,,,
+E:/dsd/cnn_open-master/cnn_open-master/src/cnn.sv,1688048093,systemVerilog,,E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv,E:/dsd/cnn_open-master/cnn_open-master/src/global.sv,acc;conv;iterator;mac;max_pool;relu,,,,,,,,
+E:/dsd/cnn_open-master/cnn_open-master/src/draw_rectangle.sv,1688047896,systemVerilog,,E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv,E:/dsd/cnn_open-master/cnn_open-master/src/global.sv,draw_rectangle,,,,,,,,
+E:/dsd/cnn_open-master/cnn_open-master/src/global.sv,1688286422,verilog,,,,,,,,,,,,
+E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv,1688048139,systemVerilog,,E:/dsd/cnn_open-master/cnn_open-master/src/lenet_roms.sv,E:/dsd/cnn_open-master/cnn_open-master/src/global.sv,lenet,,,,,,,,
+E:/dsd/cnn_open-master/cnn_open-master/src/lenet_roms.sv,1688048225,systemVerilog,,E:/dsd/cnn_open-master/cnn_open-master/model/xilinx/xilinx_1w1r_sram.sv,E:/dsd/cnn_open-master/cnn_open-master/src/global.sv,bias_conv1_rom;bias_conv2_rom;bias_fc1_rom;bias_fc2_rom;bias_fc3_rom;wieght_conv1_rom;wieght_conv2_rom;wieght_fc1_rom;wieght_fc2_rom;wieght_fc3_rom,,,,,,,,
+E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv,1688055334,systemVerilog,,,E:/dsd/cnn_open-master/cnn_open-master/src/global.sv,itf_frame_feed;src_rom;tb,,,,,,,,
+E:/dsd/cnn_open-master/cnn_open-master/src/lenet_top.sv,1688048434,systemVerilog,,,E:/dsd/cnn_open-master/cnn_open-master/src/global.sv,dlyRst;system_top,,,,,,,,
+E:/dsd/cnn_open-master/cnn_open-master/src/misc.sv,1688048250,systemVerilog,,E:/dsd/cnn_open-master/cnn_open-master/src/osd.sv,E:/dsd/cnn_open-master/cnn_open-master/src/global.sv,go_CDC_go,,,,,,,,
+E:/dsd/cnn_open-master/cnn_open-master/src/osd.sv,1688048258,systemVerilog,,E:/dsd/cnn_open-master/cnn_open-master/model/xilinx/xilinx_1w1r_sram.sv,E:/dsd/cnn_open-master/cnn_open-master/src/global.sv,digit_osd;digit_osd_rom,,,,,,,,
+E:/dsd/new3_proj/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,

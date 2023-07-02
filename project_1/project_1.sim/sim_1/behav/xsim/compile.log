@@ -1,0 +1,103 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/dsd/cnn_open-master/cnn_open-master/model/bhvsram/bhv_1w1r_sram.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bhv_1w1r_sram
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/dsd/cnn_open-master/cnn_open-master/src/cnn.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module iterator
+INFO: [VRFC 10-311] analyzing module max_pool
+INFO: [VRFC 10-311] analyzing module relu
+INFO: [VRFC 10-311] analyzing module conv
+INFO: [VRFC 10-311] analyzing module acc
+INFO: [VRFC 10-2458] undeclared symbol q_mac_en_b1, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/cnn.sv:320]
+INFO: [VRFC 10-311] analyzing module mac
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lenet
+INFO: [VRFC 10-2458] undeclared symbol first_data, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:51]
+INFO: [VRFC 10-2458] undeclared symbol last_data, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:52]
+INFO: [VRFC 10-2458] undeclared symbol conv1_ready, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:57]
+INFO: [VRFC 10-2458] undeclared symbol q_conv1_en, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:92]
+INFO: [VRFC 10-2458] undeclared symbol first_data_pooling1, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:139]
+INFO: [VRFC 10-2458] undeclared symbol last_data_pooling1, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:140]
+INFO: [VRFC 10-2458] undeclared symbol pooling1_ready, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:141]
+INFO: [VRFC 10-2458] undeclared symbol qa_pooling1_en, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:172]
+INFO: [VRFC 10-2458] undeclared symbol qa_relu1_en, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:184]
+INFO: [VRFC 10-2458] undeclared symbol first_data_conv2, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:254]
+INFO: [VRFC 10-2458] undeclared symbol last_data_conv2, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:255]
+INFO: [VRFC 10-2458] undeclared symbol conv2_ready, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:260]
+INFO: [VRFC 10-2458] undeclared symbol q_conv2_en, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:296]
+INFO: [VRFC 10-2458] undeclared symbol first_data_pooling2, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:343]
+INFO: [VRFC 10-2458] undeclared symbol last_data_pooling2, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:344]
+INFO: [VRFC 10-2458] undeclared symbol pooling2_ready, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:345]
+INFO: [VRFC 10-2458] undeclared symbol qa_pooling2_en, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:376]
+INFO: [VRFC 10-2458] undeclared symbol qa_relu2_en, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:389]
+INFO: [VRFC 10-2458] undeclared symbol first_data_FC1, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:462]
+INFO: [VRFC 10-2458] undeclared symbol last_data_FC1, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:463]
+INFO: [VRFC 10-2458] undeclared symbol fc1_ready, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:468]
+INFO: [VRFC 10-2458] undeclared symbol q_fc1_en, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:503]
+INFO: [VRFC 10-2458] undeclared symbol qa_relu_fc1_en, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:515]
+INFO: [VRFC 10-2458] undeclared symbol first_data_fc2, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:583]
+INFO: [VRFC 10-2458] undeclared symbol last_data_fc2, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:584]
+INFO: [VRFC 10-2458] undeclared symbol fc2_ready, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:589]
+INFO: [VRFC 10-2458] undeclared symbol q_fc2_en, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:624]
+INFO: [VRFC 10-2458] undeclared symbol qa_relu_fc2_en, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:636]
+INFO: [VRFC 10-2458] undeclared symbol first_data_fc3, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:704]
+INFO: [VRFC 10-2458] undeclared symbol last_data_fc3, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:705]
+INFO: [VRFC 10-2458] undeclared symbol fc3_ready, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:710]
+INFO: [VRFC 10-2458] undeclared symbol q_fc3_en, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:745]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/dsd/cnn_open-master/cnn_open-master/src/lenet_roms.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bias_conv1_rom
+INFO: [VRFC 10-311] analyzing module wieght_conv1_rom
+INFO: [VRFC 10-311] analyzing module bias_conv2_rom
+INFO: [VRFC 10-311] analyzing module wieght_conv2_rom
+INFO: [VRFC 10-311] analyzing module bias_fc1_rom
+INFO: [VRFC 10-311] analyzing module wieght_fc1_rom
+INFO: [VRFC 10-311] analyzing module bias_fc2_rom
+INFO: [VRFC 10-311] analyzing module wieght_fc2_rom
+INFO: [VRFC 10-311] analyzing module bias_fc3_rom
+INFO: [VRFC 10-311] analyzing module wieght_fc3_rom
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/dsd/cnn_open-master/cnn_open-master/model/xilinx/xilinx_1w1r_sram.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module xilinx_1w1r_sram
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/dsd/cnn_open-master/cnn_open-master/model/xilinx/xilinx_srams.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rfdp1024x16
+INFO: [VRFC 10-311] analyzing module rfdp1024x96
+INFO: [VRFC 10-311] analyzing module rfdp256x96
+INFO: [VRFC 10-311] analyzing module rfdp128x256
+INFO: [VRFC 10-311] analyzing module rfdp32x256
+INFO: [VRFC 10-311] analyzing module rfdp128x16
+INFO: [VRFC 10-311] analyzing module rfdp2048x8
+INFO: [VRFC 10-311] analyzing module rfdp1024x8
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb
+INFO: [VRFC 10-2458] undeclared symbol cena_src_rom, assumed default net type wire [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:71]
+INFO: [VRFC 10-311] analyzing module src_rom
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:114]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:115]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:116]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:117]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:118]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:119]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:120]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:121]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:122]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:123]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:124]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:125]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:126]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:127]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:128]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:129]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:130]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:131]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:132]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:133]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:134]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:135]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:136]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:137]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:138]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:139]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:140]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:141]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:142]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:143]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:144]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:145]
+WARNING: [VRFC 10-3824] variable 'sequence_name' must explicitly be declared as automatic or static [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:169]

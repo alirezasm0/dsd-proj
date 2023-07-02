@@ -1,0 +1,48 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+Info: [XPM_MEMORY 20-1] MEMORY_PRIMITIVE (0) instructs Vivado Synthesis to choose the memory primitive type. Depending on their values, other XPM_MEMORY parameters may preclude the choice of certain memory primitive types. Review XPM_MEMORY documentation and parameter values to understand any limitations, or set MEMORY_PRIMITIVE to a different value. tb.lenet.conv1_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/conv1_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_134  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-2] MEMORY_INIT_FILE (none), MEMORY_INIT_PARAM together specify no memory initialization. Initial memory contents will be all 0's. tb.lenet.conv1_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc  0
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/conv1_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_134  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-1] MEMORY_PRIMITIVE (0) instructs Vivado Synthesis to choose the memory primitive type. Depending on their values, other XPM_MEMORY parameters may preclude the choice of certain memory primitive types. Review XPM_MEMORY documentation and parameter values to understand any limitations, or set MEMORY_PRIMITIVE to a different value. tb.lenet.relu1_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/relu1_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_181  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-2] MEMORY_INIT_FILE (none), MEMORY_INIT_PARAM together specify no memory initialization. Initial memory contents will be all 0's. tb.lenet.relu1_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc  0
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/relu1_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_181  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-1] MEMORY_PRIMITIVE (0) instructs Vivado Synthesis to choose the memory primitive type. Depending on their values, other XPM_MEMORY parameters may preclude the choice of certain memory primitive types. Review XPM_MEMORY documentation and parameter values to understand any limitations, or set MEMORY_PRIMITIVE to a different value. tb.lenet.conv2_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/conv2_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_676  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-2] MEMORY_INIT_FILE (none), MEMORY_INIT_PARAM together specify no memory initialization. Initial memory contents will be all 0's. tb.lenet.conv2_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc  0
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/conv2_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_676  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-1] MEMORY_PRIMITIVE (0) instructs Vivado Synthesis to choose the memory primitive type. Depending on their values, other XPM_MEMORY parameters may preclude the choice of certain memory primitive types. Review XPM_MEMORY documentation and parameter values to understand any limitations, or set MEMORY_PRIMITIVE to a different value. tb.lenet.relu2_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/relu2_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_743  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-2] MEMORY_INIT_FILE (none), MEMORY_INIT_PARAM together specify no memory initialization. Initial memory contents will be all 0's. tb.lenet.relu2_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc  0
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/relu2_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_743  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-1] MEMORY_PRIMITIVE (0) instructs Vivado Synthesis to choose the memory primitive type. Depending on their values, other XPM_MEMORY parameters may preclude the choice of certain memory primitive types. Review XPM_MEMORY documentation and parameter values to understand any limitations, or set MEMORY_PRIMITIVE to a different value. tb.lenet.relu_fc1_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/relu_fc1_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_823  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-2] MEMORY_INIT_FILE (none), MEMORY_INIT_PARAM together specify no memory initialization. Initial memory contents will be all 0's. tb.lenet.relu_fc1_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc  0
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/relu_fc1_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_823  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-1] MEMORY_PRIMITIVE (0) instructs Vivado Synthesis to choose the memory primitive type. Depending on their values, other XPM_MEMORY parameters may preclude the choice of certain memory primitive types. Review XPM_MEMORY documentation and parameter values to understand any limitations, or set MEMORY_PRIMITIVE to a different value. tb.lenet.relu_fc2_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/relu_fc2_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_823  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-2] MEMORY_INIT_FILE (none), MEMORY_INIT_PARAM together specify no memory initialization. Initial memory contents will be all 0's. tb.lenet.relu_fc2_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc  0
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/relu_fc2_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_823  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+T                1000 rstn done#############################
+T              186618==process a frame          0, digit  7 =============
+T              371238==process a frame          1, digit  2 =============
+T              555858==process a frame          2, digit  1 =============
+T              740478==process a frame          3, digit  0 =============
+T              925098==process a frame          4, digit  4 =============
+T             1109718==process a frame          5, digit  1 =============
+T             1294338==process a frame          6, digit  4 =============
+T             1478958==process a frame          7, digit  9 =============
+T             1663578==process a frame          8, digit  5 =============
+T             1848198==process a frame          9, digit  9 =============
+T             2032818==process a frame         10, digit  0 =============
+T             2217438==process a frame         11, digit  6 =============
+T             2402058==process a frame         12, digit  9 =============
+T             2586678==process a frame         13, digit  0 =============
+T             2771298==process a frame         14, digit  1 =============
+T             2955918==process a frame         15, digit  5 =============
+T             3140538==process a frame         16, digit  9 =============
+T             3325158==process a frame         17, digit  7 =============
+T             3509778==process a frame         18, digit  3 =============
+T             3694398==process a frame         19, digit  4 =============
+$finish called at time : 3794407500 ps : File "E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv" Line 60

@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../../cnn_open-master/cnn_open-master/model/bhvsram/bhv_1w1r_sram.sv" \
+"../../../../../../cnn_open-master/cnn_open-master/src/cnn.sv" \
+"../../../../../../cnn_open-master/cnn_open-master/src/lenet.sv" \
+"../../../../../../cnn_open-master/cnn_open-master/src/lenet_roms.sv" \
+"../../../../../../cnn_open-master/cnn_open-master/model/xilinx/xilinx_1w1r_sram.sv" \
+"../../../../../../cnn_open-master/cnn_open-master/model/xilinx/xilinx_srams.sv" \
+"../../../../../../cnn_open-master/cnn_open-master/src/lenet_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

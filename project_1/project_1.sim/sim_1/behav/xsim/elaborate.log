@@ -1,0 +1,112 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto 34a361b535684bfc9461158a151a11aa --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot tb_behav xil_defaultlib.tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-3091] actual bit length 10 differs from formal bit length 16 for port 'aa_data' [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:54]
+WARNING: [VRFC 10-3091] actual bit length 10 differs from formal bit length 16 for port 'aa_weight' [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:55]
+WARNING: [VRFC 10-3091] actual bit length 10 differs from formal bit length 16 for port 'aa_data' [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:137]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 16 for port 'aa_data' [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:257]
+WARNING: [VRFC 10-3091] actual bit length 10 differs from formal bit length 16 for port 'aa_weight' [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:258]
+WARNING: [VRFC 10-3091] actual bit length 7 differs from formal bit length 16 for port 'aa_data' [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:341]
+WARNING: [VRFC 10-3091] actual bit length 5 differs from formal bit length 16 for port 'aa_data' [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:465]
+WARNING: [VRFC 10-3091] actual bit length 12 differs from formal bit length 16 for port 'aa_weight' [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:466]
+WARNING: [VRFC 10-3091] actual bit length 7 differs from formal bit length 16 for port 'aa_data' [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:586]
+WARNING: [VRFC 10-3091] actual bit length 14 differs from formal bit length 16 for port 'aa_weight' [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:587]
+WARNING: [VRFC 10-3091] actual bit length 7 differs from formal bit length 16 for port 'aa_data' [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:707]
+WARNING: [VRFC 10-3091] actual bit length 10 differs from formal bit length 16 for port 'aa_weight' [E:/dsd/cnn_open-master/cnn_open-master/src/lenet.sv:708]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:114]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:115]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:116]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:117]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:118]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:119]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:120]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:121]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:122]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:123]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:124]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:125]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:126]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:127]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:128]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:129]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:130]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:131]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:132]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:133]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:134]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:135]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:136]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:137]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:138]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:139]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:140]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:141]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:142]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:143]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:144]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [E:/dsd/cnn_open-master/cnn_open-master/src/lenet_tb.sv:145]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.cb
+Compiling module xil_defaultlib.itf_frame_feed
+Compiling module xil_defaultlib.src_rom
+Compiling module xil_defaultlib.wieght_conv1_rom
+Compiling module xil_defaultlib.bias_conv1_rom
+Compiling module xil_defaultlib.iterator(OUTPUT_BATCH=1)
+Compiling module xil_defaultlib.mac_default
+Compiling module xil_defaultlib.acc(WIGHT_SHIFT=15)
+Compiling module xil_defaultlib.conv(WIGHT_SHIFT=15)
+Compiling module xpm.xpm_memory_base(MEMORY_TYPE=1,ME...
+Compiling module xpm.xpm_memory_sdpram(MEMORY_SIZE=98...
+Compiling module xil_defaultlib.xilinx_1w1r_sram(WWORD=96,WADDR=...
+Compiling module xil_defaultlib.rfdp1024x96
+Compiling module xil_defaultlib.iterator(OUTPUT_BATCH=1,KERNEL_S...
+Compiling module xil_defaultlib.max_pool_default
+Compiling module xil_defaultlib.relu_default
+Compiling module xpm.xpm_memory_base(MEMORY_TYPE=1,ME...
+Compiling module xpm.xpm_memory_sdpram(MEMORY_SIZE=24...
+Compiling module xil_defaultlib.xilinx_1w1r_sram(WWORD=96,WADDR=...
+Compiling module xil_defaultlib.rfdp256x96
+Compiling module xil_defaultlib.wieght_conv2_rom
+Compiling module xil_defaultlib.bias_conv2_rom
+Compiling module xil_defaultlib.iterator(OUTPUT_BATCH=1,INPUT_WI...
+Compiling module xil_defaultlib.mac(INPUT_NUM=6)
+Compiling module xil_defaultlib.acc(INPUT_NUM=6,WIGHT_SHIFT=15)
+Compiling module xil_defaultlib.conv(INPUT_NUM=6,OUTPUT_NUM=16,W...
+Compiling module xpm.xpm_memory_base(MEMORY_TYPE=1,ME...
+Compiling module xpm.xpm_memory_sdpram(MEMORY_SIZE=32...
+Compiling module xil_defaultlib.xilinx_1w1r_sram(WWORD=256,WADDR...
+Compiling module xil_defaultlib.rfdp128x256
+Compiling module xil_defaultlib.iterator(OUTPUT_BATCH=1,KERNEL_S...
+Compiling module xil_defaultlib.max_pool(INPUT_NUM=16)
+Compiling module xil_defaultlib.relu(INPUT_NUM=16)
+Compiling module xpm.xpm_memory_base(MEMORY_TYPE=1,ME...
+Compiling module xpm.xpm_memory_sdpram(MEMORY_SIZE=81...
+Compiling module xil_defaultlib.xilinx_1w1r_sram(WWORD=256,DEPTH...
+Compiling module xil_defaultlib.rfdp32x256
+Compiling module xil_defaultlib.wieght_fc1_rom
+Compiling module xil_defaultlib.bias_fc1_rom
+Compiling module xil_defaultlib.iterator(OUTPUT_BATCH=120,INPUT_...
+Compiling module xil_defaultlib.mac(INPUT_NUM=16)
+Compiling module xil_defaultlib.acc(INPUT_NUM=16,WIGHT_SHIFT=15)
+Compiling module xil_defaultlib.conv(INPUT_NUM=16,OUTPUT_NUM=1,W...
+Compiling module xil_defaultlib.relu(INPUT_NUM=1)
+Compiling module xpm.xpm_memory_base(MEMORY_TYPE=1,CL...
+Compiling module xpm.xpm_memory_sdpram(CLOCKING_MODE=...
+Compiling module xil_defaultlib.xilinx_1w1r_sram(WWORD=16,WADDR=...
+Compiling module xil_defaultlib.rfdp128x16
+Compiling module xil_defaultlib.wieght_fc2_rom
+Compiling module xil_defaultlib.bias_fc2_rom
+Compiling module xil_defaultlib.iterator(OUTPUT_BATCH=84,KERNEL_...
+Compiling module xil_defaultlib.conv(OUTPUT_NUM=1,WIGHT_SHIFT=15...
+Compiling module xil_defaultlib.wieght_fc3_rom
+Compiling module xil_defaultlib.bias_fc3_rom
+Compiling module xil_defaultlib.iterator(OUTPUT_BATCH=10,KERNEL_...
+Compiling module xil_defaultlib.lenet
+Compiling module xil_defaultlib.tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_behav
